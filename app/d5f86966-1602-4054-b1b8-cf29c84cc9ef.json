@@ -6,7 +6,39 @@
     "controlSchema": {
       "schema": {
         "type": "object",
-        "properties": {}
+        "properties": {
+          "control_1": {
+            "type": "actionDropdown",
+            "controlId": "1803656c-3594-49cf-b986-e42664c17cb7",
+            "accessRoles": null,
+            "privileges": null,
+            "styles": {
+              "useComponentShadow": false,
+              "useGreyBackground": false,
+              "useInnerGreyBackground": false
+            },
+            "events": [],
+            "controlData": "Action Button",
+            "layoutSize": null,
+            "buttonColorType": "primary",
+            "icon": "",
+            "iconPosition": "left",
+            "shouldRenderHidden": false,
+            "pageSchema": {
+              "properties": {},
+              "controlSchema": {
+                "schema": {
+                  "type": "object",
+                  "properties": {}
+                }
+              }
+            },
+            "innerCanvasMappings": {
+              "pageSchema": "appElements"
+            },
+            "dropup": false
+          }
+        }
       }
     }
   },

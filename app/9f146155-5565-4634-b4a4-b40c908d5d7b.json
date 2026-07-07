@@ -456,6 +456,24 @@
             "variables": [],
             "selectedField": "",
             "selectedVariable": ""
+          },
+          "control_2": {
+            "type": "button",
+            "controlId": "cfe30f54-07dd-4f89-9e6d-44b8eb8767cc",
+            "privileges": null,
+            "styles": {
+              "useComponentShadow": false,
+              "useGreyBackground": false,
+              "useInnerGreyBackground": false
+            },
+            "internalName": "Button Component",
+            "events": [],
+            "controlData": "Button",
+            "layoutSize": null,
+            "buttonColorType": "primary",
+            "icon": "",
+            "iconPosition": "left",
+            "shouldRenderHidden": false
           }
         }
       }

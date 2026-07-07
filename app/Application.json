@@ -4,9 +4,19 @@
   "applicationName": "git_app_test",
   "applicationState": "DRAFT",
   "defaultBranch": "main",
-  "description": null,
+  "description": "",
   "gitUrl": "https://github.com/ShobhaBandigani/repo23",
   "icon": null,
-  "sections": [],
-  "tagIds": null
+  "landingPageId": null,
+  "sections": [
+    {
+      "accessRoles": null,
+      "privileges": null,
+      "name": "section2",
+      "icon": "Alert Triangle",
+      "sections": []
+    }
+  ],
+  "tagIds": null,
+  "themeConfig": null
 }

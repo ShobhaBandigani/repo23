@@ -1,19 +1,10 @@
 {
   "accessRoles": [],
-  "applicationId": "1c8f9ded-e30d-45d1-bae5-d0d7607cf8e9",
-  "applicationName": "gitApp_new",
+  "applicationId": "23597c4b-12d1-41ab-9b15-4dcc1fb88dcb",
+  "applicationName": "git_app_test",
   "applicationState": "DRAFT",
   "defaultBranch": "main",
   "gitUrl": "https://github.com/ShobhaBandigani/repo23",
-  "sections": [
-    {
-      "accessRoles": null,
-      "privileges": null,
-      "name": "section",
-      "icon": "Alert Circle",
-      "pageDefinitionId": "d5f86966-1602-4054-b1b8-cf29c84cc9ef",
-      "sections": []
-    }
-  ],
+  "sections": [],
   "tagIds": []
 }

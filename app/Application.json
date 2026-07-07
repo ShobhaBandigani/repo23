@@ -6,19 +6,16 @@
   "defaultBranch": "main",
   "description": "",
   "gitUrl": "https://github.com/ShobhaBandigani/repo23",
-  "icon": null,
-  "landingPageId": null,
   "sections": [
     {
-      "accessRoles": null,
-      "privileges": null,
       "name": "section2",
       "icon": "Alert Triangle",
+      "pageDefinitionId": "9f146155-5565-4634-b4a4-b40c908d5d7b",
       "sections": [],
-      "tagIds": null,
-      "pageDefinitionId": "9f146155-5565-4634-b4a4-b40c908d5d7b"
+      "accessRoles": null,
+      "privileges": null,
+      "tagIds": null
     }
   ],
-  "tagIds": null,
-  "themeConfig": null
+  "tagIds": null
 }

@@ -1,10 +1,12 @@
 {
-  "accessRoles": [],
+  "accessRoles": null,
   "applicationId": "23597c4b-12d1-41ab-9b15-4dcc1fb88dcb",
   "applicationName": "git_app_test",
   "applicationState": "DRAFT",
   "defaultBranch": "main",
+  "description": null,
   "gitUrl": "https://github.com/ShobhaBandigani/repo23",
+  "icon": null,
   "sections": [],
-  "tagIds": []
+  "tagIds": null
 }

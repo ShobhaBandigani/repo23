@@ -1,0 +1,7 @@
+{
+  "savedInEditor": true,
+  "isValid": true,
+  "name": "query_test",
+  "schemaName": "$framework",
+  "xsql": "select * from $framework.table23_test;"
+}

@@ -1,0 +1,15 @@
+{
+  "description": null,
+  "pageDefinitionId": "9f146155-5565-4634-b4a4-b40c908d5d7b",
+  "pageSchema": {
+    "properties": {},
+    "controlSchema": {
+      "schema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  },
+  "title": "pge1",
+  "versionName": "1.0"
+}

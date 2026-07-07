@@ -14,7 +14,9 @@
       "privileges": null,
       "name": "section2",
       "icon": "Alert Triangle",
-      "sections": []
+      "sections": [],
+      "tagIds": null,
+      "pageDefinitionId": "9f146155-5565-4634-b4a4-b40c908d5d7b"
     }
   ],
   "tagIds": null,
